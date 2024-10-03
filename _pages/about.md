@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a pre-PhD student at CISPA Helmholtz Center for Information Security, advised by [Prof. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I received my Bachelor’s degree from Zhejiang University, advised by [Prof. Kai Weng](https://person.zju.edu.cn/en/wengkai). Then I obtained my Master' degree from University of Macau, advised by [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/).
+I am currently a pre-PhD student at CISPA Helmholtz Center for Information Security, advised by [Prof. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I received my Bachelor’s degree from Zhejiang University, advised by [Prof. Kai Weng](https://person.zju.edu.cn/en/wengkai).
 
 Research Interest
 ======
