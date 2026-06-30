@@ -15,4 +15,5 @@ Research Interest
 
 What's New
 =====
-* [September 2024] I have arrived in Saarbrücken, Germany to start a new journey. It is a quiet and peaceful city.
+
+
