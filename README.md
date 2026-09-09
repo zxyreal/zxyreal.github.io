@@ -1,3 +1,18 @@
+# Xinyu Zhang’s personal website
+
+Published at [xinyuzhang.net](https://xinyuzhang.net/) using GitHub Pages from the root of the `master` branch.
+
+- `_pages/about.html`: homepage biography, research interests, and news.
+- `_pages/publications.html`: the separate publication list.
+- `assets/css/personal.css`: the approved compact layout and responsive styles.
+- `images/xinyu-srgb.jpg`: the web-ready portrait; source photo backups are not published.
+- `life/`: the retained map page, currently hidden from navigation.
+- `_config.yml`, `_data/navigation.yml`, and `CNAME`: site metadata, legacy navigation, and the existing custom domain.
+
+The two personal pages use `layout: null` to preserve their standalone HTML within the existing Jekyll build. The earlier local drafts under `local/` are ignored and excluded from publishing. Edit the production files above for future updates. PersonaHate is intentionally displayed without a hyperlink.
+
+The original Academic Pages template documentation follows.
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 

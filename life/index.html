@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Xinyu Zhang’s life map: visited countries and regions.">
+  <meta name="theme-color" content="#ffffff">
+  <title>Life · Xinyu Zhang</title>
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/css/personal.css?v=18">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="travel.css?v=13">
+  <script src="vendor/leaflet/leaflet.js" defer></script>
+  <script src="trips.js" defer></script>
+  <script src="travel.js" type="module"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="../">Xinyu Zhang</a>
+      <nav aria-label="Main navigation">
+        <a href="../#about">About</a>
+        <a href="../publications/">Publication</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="travel-main" tabindex="-1">
+    <h1 class="visually-hidden">Life</h1>
+    <section class="map-panel" aria-label="Visited countries and regions">
+      <div id="travel-map" aria-label="Interactive map. Visited countries are light blue and visited regions are dark blue."></div>
+      <div id="map-status" class="map-status" role="status" hidden></div>
+    </section>
+    <noscript><p>Enable JavaScript to use the interactive travel map.</p></noscript>
+  </main>
+</body>
+</html>

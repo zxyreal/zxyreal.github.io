@@ -1,0 +1,90 @@
+{
+  "background": {
+    "source": "Natural Earth 1:50m Admin 0 Countries",
+    "url": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_0_countries.geojson",
+    "license": "Public domain"
+  },
+  "visited_boundaries": [
+    {
+      "boundaryISO": "DEU",
+      "boundaryType": "ADM0",
+      "boundaryYearRepresented": "2021",
+      "boundarySource": "Federal Agency for Cartography and Geodesy",
+      "boundaryLicense": "Data license Germany - Attribution - Version 2.0",
+      "licenseSource": "www.govdata.de/dl-de/by-2-0",
+      "boundarySourceURL": "gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete/nuts-gebiete-1-250-000-stand-31-12-nuts250-31-12.html",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DEU/ADM0/geoBoundaries-DEU-ADM0_simplified.geojson"
+    },
+    {
+      "boundaryISO": "DEU",
+      "boundaryType": "ADM1",
+      "boundaryYearRepresented": "2021",
+      "boundarySource": "Federal Agency for Cartography and Geodesy",
+      "boundaryLicense": "Data license Germany - Attribution - Version 2.0",
+      "licenseSource": "www.govdata.de/dl-de/by-2-0",
+      "boundarySourceURL": "gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete/nuts-gebiete-1-250-000-stand-31-12-nuts250-31-12.html",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DEU/ADM1/geoBoundaries-DEU-ADM1_simplified.geojson"
+    },
+    {
+      "boundaryISO": "FRA",
+      "boundaryType": "ADM0",
+      "boundaryYearRepresented": "2016",
+      "boundarySource": "geoBoundaries, Wikipedia",
+      "boundaryLicense": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+      "licenseSource": "creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "boundarySourceURL": "commons.wikimedia.org/wiki/File",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FRA/ADM0/geoBoundaries-FRA-ADM0_simplified.geojson"
+    },
+    {
+      "boundaryISO": "FRA",
+      "boundaryType": "ADM1",
+      "boundaryYearRepresented": "2022",
+      "boundarySource": "Institut national de l'information géographique et forestière (IGN-F)",
+      "boundaryLicense": "Etalab Open License 2.0",
+      "licenseSource": "geoservices.ign.fr/sites/default/files/2021-11/IGNF_ADMIN_EXPRESS_3-1.html",
+      "boundarySourceURL": "geoservices.ign.fr/adminexpress",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FRA/ADM1/geoBoundaries-FRA-ADM1_simplified.geojson"
+    },
+    {
+      "boundaryISO": "DNK",
+      "boundaryType": "ADM0",
+      "boundaryYearRepresented": "2021",
+      "boundarySource": "geoBoundaries, Web Vectors Map",
+      "boundaryLicense": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "licenseSource": "webvectormaps.com/administrative-map-of-denmark-by-regions/",
+      "boundarySourceURL": "webvectormaps.com/administrative-map-of-denmark-by-regions/",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DNK/ADM0/geoBoundaries-DNK-ADM0_simplified.geojson"
+    },
+    {
+      "boundaryISO": "DNK",
+      "boundaryType": "ADM1",
+      "boundaryYearRepresented": "2021",
+      "boundarySource": "geoBoundaries, Web Vectors Map",
+      "boundaryLicense": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "licenseSource": "webvectormaps.com/administrative-map-of-denmark-by-regions/",
+      "boundarySourceURL": "webvectormaps.com/administrative-map-of-denmark-by-regions/",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DNK/ADM1/geoBoundaries-DNK-ADM1_simplified.geojson"
+    },
+    {
+      "boundaryISO": "SWE",
+      "boundaryType": "ADM0",
+      "boundaryYearRepresented": "2019",
+      "boundarySource": "Open Data Soft, World Food Programme",
+      "boundaryLicense": "Open Government Licence v3.0",
+      "licenseSource": "www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "boundarySourceURL": "public.opendatasoft.com/explore/dataset/world-administrative-boundaries/information/?q=SWE&refine.color_code=SWE&location=6,50.66687,15.23804&basemap=jawg.streets",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWE/ADM0/geoBoundaries-SWE-ADM0_simplified.geojson"
+    },
+    {
+      "boundaryISO": "SWE",
+      "boundaryType": "ADM1",
+      "boundaryYearRepresented": "2009",
+      "boundarySource": "geoBoundaries, Erik Frohne",
+      "boundaryLicense": "Creative Commons Attribution 3.0 License",
+      "licenseSource": "commons.wikimedia.org/w/index.php?curid=5675559",
+      "boundarySourceURL": "upload.wikimedia.org/wikipedia/commons/3/31/Sweden_Uppsala_location_map.svg",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWE/ADM1/geoBoundaries-SWE-ADM1_simplified.geojson"
+    }
+  ],
+  "processing": "Selected six ADM1 regions; replaced four visited country outlines with geoBoundaries ADM0; rounded coordinates to four decimal places. No territorial coverage was inferred from city coordinates."
+}
