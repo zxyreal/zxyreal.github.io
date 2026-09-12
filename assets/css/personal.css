@@ -67,7 +67,8 @@ nav a[aria-current="page"] { color: var(--accent); }
 .publication-venue strong { color: var(--ink); font-weight: 600; }
 .site-footer { padding-block: 1.1rem 1.8rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .8125rem; }
 .site-footer p { margin: 0; }
-.visitor-globe { width: 220px; max-width: 100%; margin: .5rem auto 1.5rem; }
+.visitor-map { width: 360px; max-width: 100%; margin: .5rem auto 1.5rem; }
+.visitor-map #mapmyvisitors-widget, .visitor-map .mapmyvisitors-map { max-width: 100%; }
 @media (min-width: 761px) and (min-height: 760px) {
   .profile-sidebar { position: sticky; top: 2rem; }
 }
@@ -106,7 +107,7 @@ nav a[aria-current="page"] { color: var(--accent); }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 @media print {
   body { color: #000; font-size: 11pt; }
-  .site-header, .skip-link, .visitor-globe { display: none; }
+  .site-header, .skip-link, .visitor-map { display: none; }
   .profile-layout { display: grid; grid-template-columns: 150px minmax(0, 1fr); width: 100%; gap: 2rem; padding-block: 1rem; }
   .profile-sidebar { display: block; position: static; }
   .portrait { width: 145px; }
