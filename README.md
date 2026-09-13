@@ -10,7 +10,7 @@ Published at [xinyuzhang.net](https://xinyuzhang.net/) using GitHub Pages from t
 - `life/`: the retained map page, currently hidden from navigation.
 - `_config.yml`, `_data/navigation.yml`, and `CNAME`: site metadata, legacy navigation, and the existing custom domain.
 
-The two personal pages use `layout: null` to preserve their standalone HTML within the existing Jekyll build. The earlier local drafts under `local/` are ignored and excluded from publishing. Edit the production files above for future updates. PersonaHate is intentionally displayed without a hyperlink.
+The two personal pages use `layout: null` to preserve their standalone HTML within the existing Jekyll build. The earlier local drafts under `local/` are ignored and excluded from publishing. Edit the production files above for future updates. Paper buttons link to the supplied PDFs under `papers/`; resource controls without an enabled destination remain disabled.
 
 The original Academic Pages template documentation follows.
 
