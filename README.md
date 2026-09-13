@@ -4,6 +4,7 @@ Published at [xinyuzhang.net](https://xinyuzhang.net/) using GitHub Pages from t
 
 - `_pages/about.html`: homepage biography, research interests, and news.
 - `_pages/publications.html`: the separate publication list.
+- `papers/`: paper PDFs served directly from this domain and linked by the Paper buttons.
 - `assets/css/personal.css`: the approved compact layout and responsive styles.
 - `images/xinyu-srgb.jpg`: the web-ready portrait; source photo backups are not published.
 - `life/`: the retained map page, currently hidden from navigation.
